@@ -1,0 +1,5 @@
+Prototypes- JavaScript is a prototype based language, so, whenever we create a function using JavaScript, JavaScript engine adds a prototype property inside a function, Prototype property is basically an object.
+#proto chain
+Two ways to create object:
+1. constructor object
+2. Literal type

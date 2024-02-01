@@ -1,0 +1,9 @@
+
+   Javascript is single threaded - to make it asynchrounous in nature it make use of event loop,callbackqueue and webAPI.
+   1.callback function - it is a function which is passed as an argument to another function.
+   2.Web API-All asynchrounous function are first executed by browser API, and load it to callback queue.
+   3.Event loop load all asyn function from queue to stack for execution
+
+Promise- It is a function which wrap up all asynchrounous code and give feedback ie function been resolve,rejected or error occured.
+
+

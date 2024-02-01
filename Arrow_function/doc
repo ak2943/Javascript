@@ -1,0 +1,7 @@
+Arrow functions are a concise way to write anonymous functions in JavaScript.
+They were introduced in ECMAScript 6 (ES6).
+Uses:
+1. Concise Syntax: if function body consists of a single statement. This can make the code more readable and reduce the amount of code.
+and it havee some pri
+2. Callback Functions: Traditional functions may have issues with the value of "this" inside callbacks, but arrow functions inherit "this" from the enclosing scope.
+3. Shorter Inline Functions
